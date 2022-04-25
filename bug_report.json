@@ -1,0 +1,10 @@
+{
+	'summary': 'short description of the problem',
+	'project': 'name tasting project',
+	'components': 'name parts or function of testing product',
+	'version': 'version on which find mistace',
+	'severity': 'seriously defect',
+
+
+
+}
